@@ -15,7 +15,7 @@ export default function App() {
           <button  className='mr-5 cursor-pointer'>Get Started</button>
         </ul>
       </nav>
-      <main className='text-white w-1/2  h-80v my-auto flex flex-col justify-center items-start p-5'>
+      <main className='text-white w-1/2  h-80v my-auto flex flex-col justify-center items-start p-5 ml-20'>
         <h1 className='font-semibold text-6xl'>The Future is Now</h1>
         <h3 className='my-5 text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, perferendis atque qui nostrum sequi aliquid. Voluptates ipsum nam suscipit quam.</h3>
         <div className="flex gap-5 items-center">
