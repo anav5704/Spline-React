@@ -12,7 +12,7 @@ This is just a simple hero section made with React JS and Spline 3d. It was my f
 
 ## Getting Started
 
-First fork and clone the repo. First run ```npm install``` to download all the dependencies. Once that is done, run ```npm start``` to view it on localhost.
+First fork and clone the repo. Then, run ```npm install``` to download all the dependencies. Once that is done, run ```npm start``` to view it on localhost.
 
 ## Learning Resources
 
